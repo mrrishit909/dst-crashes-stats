@@ -1,0 +1,8 @@
+{
+  "source": "NHTSA FARS national CSV files",
+  "years": [
+    2010,
+    2024
+  ],
+  "total_mb": 383
+}
