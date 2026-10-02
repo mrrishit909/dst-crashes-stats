@@ -70,6 +70,6 @@ spring estimate is above every placebo.
 ## Not done
 
 - No crash exposure: miles driven by week are not available, so the counts aren't rates per mile.
-- Arizona and Hawaii are small (about 3 fatal crashes a day), so the comparison is noisy.
+- Arizona and Hawaii are small (2.3 fatal crashes a day), so the comparison is noisy.
 - Arizona's Navajo Nation does observe daylight saving time; it stays in the Arizona group.
 - One week only; longer-run effects of the darker mornings are not estimated.
